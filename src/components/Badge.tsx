@@ -44,7 +44,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Develop by
+      Developed by
       <a
         ref={liteBadge}
         href={'https://wilschoy78.github.io/'}
