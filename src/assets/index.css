@@ -238,7 +238,7 @@ textarea {
 }
 
 .chatbot-chat-view {
-  max-width: 1600px;
+  max-width: 800px;
 }
 
 .ping span {
@@ -421,7 +421,7 @@ textarea {
 }
 
 .cloud {
-  width: 400px;
+  width: 800px;
   height: calc(100% - 50px);
   border-radius: 0.5rem;
   display: flex;
